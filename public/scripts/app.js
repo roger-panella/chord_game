@@ -76,7 +76,7 @@ function textFieldButton() {
   var textField = document.createElement('input');
   textField.type = 'text';
   textField.id = 'textbox';
-  textField.placeholder = "a,c#,b";
+  textField.placeholder = "ex: a,c#,b";
   var buttonDiv = document.getElementById('submitButton');
   var theButton = document.createElement('button');
   theButton.id = 'theButton';
