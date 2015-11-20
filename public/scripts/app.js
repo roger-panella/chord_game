@@ -29,7 +29,7 @@ document.getElementById("startButton").addEventListener("click", function() {
 
 
 //Define global variables
-var playerOneScore = 8;
+var playerOneScore = 0;
 var sharpNotes = ['A','A#','B','C','C#','D','D#','E','F','F#','G','G#'];
 var flatNotes = ['A','Bb','B','C','Db','D','Eb','E','F','Gb','G','Ab'];
 
